@@ -4,7 +4,7 @@ Antigo site da Landwork Band que é uma banda de metal do município de Blumenau
 
 ## Criação
 
-> ⚠️ **Atenção:** Site criado em abril de 2013 com código feito por mim e Raphael Jangi e design feito por Daniel Lima.
+> ⚠️ **Atenção:** Site criado em 2012 com código feito por mim e Raphael Jangi e design feito por Daniel Lima.
 
 O site foi criado basicamente em um dia no Dreamweaver utilizando uma imagem em PSD com camadas separadas criada pelo Daniel Lima.
 
