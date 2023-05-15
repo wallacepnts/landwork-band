@@ -208,4 +208,4 @@ $(document).ready(function() {
 
 ![](img/capturas/rodape.jpg)
 
-E finalizando com um *iframe* do player do [YouTube](https://youtu.be/Puq3FV5oCTc), um *iframe* da página do [Facebook](https://www.facebook.com/LANDWORKBAND/) e contatos.
+E finalizando com um *iframe* do player do [YouTube](https://youtu.be/Puq3FV5oCTc), um *plugin* de Página do [Facebook](https://www.facebook.com/LANDWORKBAND/) e contatos.
