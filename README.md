@@ -8,7 +8,7 @@ Antigo site da Landwork Band que é uma banda de metal do município de Blumenau
 
 O site foi criado basicamente em um dia no Dreamweaver utilizando uma imagem em PSD com camadas separadas criada pelo Daniel Lima.
 
-### cabeçalho
+### Cabeçalho
 
 ![](img/top3.jpg)
 
